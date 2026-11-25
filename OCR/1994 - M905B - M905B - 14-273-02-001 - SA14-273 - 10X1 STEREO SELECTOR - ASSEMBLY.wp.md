@@ -1,5 +1,5 @@
 # 1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp
-Wiki page: [M905B](../../../PAGES/M905B.md)
+Wiki page: [M905B](../../../../PAGES/M905B.md)
 
 
 - **Year:** 1994 (original file date 1994-06-07)
@@ -640,7 +640,7 @@ MW94001/M905B.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M905B/1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp",
+ "file": "Modules/UNSORTED/M905B/SCHEMATICS/1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp",
  "sha256": "84e144e3ad15853fc9fcd19834bdc5a24ce4c87efddd1b89bfa4652cabe6e937",
  "kind": "module",
  "models": [
