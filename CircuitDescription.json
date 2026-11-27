@@ -1,0 +1,25 @@
+{
+ "module": "M905B",
+ "source": {
+  "file": "MANUALS/1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "5 Parts List 5-1 to 5-96 P1,P2 Connector Layouts 6-1 to 6-2",
+    "7 Drawings:",
+    "Front Panel Layout A 905-04-005 Functional B 905-01-003 Schematic B 905-02-003/1 Schematic B 905-02-003/2 Component Layout B 905-06-002",
+    "ll) Subassemby",
+    "A SA14-273 10x1 Stereo Selector Assembly",
+    "1 General 1-12 Circuit Description 2-1 to 2-23 Parts List 3-1 to 3-44 Drawings:",
+    "Schematic B 14-273-02-001 Component Layout B 14-273-06-001"
+   ]
+  }
+ ]
+}
