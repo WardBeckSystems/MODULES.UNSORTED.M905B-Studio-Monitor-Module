@@ -1,11 +1,11 @@
-# M905B · Unsorted
+# M905B Studio Monitor Module · Unsorted
 
 Ward-Beck Systems M905B, 1994|27. Wiki page: [M905B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M905B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 3 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
