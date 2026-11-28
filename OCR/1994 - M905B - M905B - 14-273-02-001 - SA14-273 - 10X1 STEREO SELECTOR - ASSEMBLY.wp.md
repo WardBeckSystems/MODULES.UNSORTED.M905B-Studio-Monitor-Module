@@ -1,5 +1,5 @@
 # 1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp
-Wiki page: [M905B](../../../../PAGES/M905B.md)
+Wiki page: [M905B](../)
 
 
 - **Year:** 1994 (original file date 1994-06-07)

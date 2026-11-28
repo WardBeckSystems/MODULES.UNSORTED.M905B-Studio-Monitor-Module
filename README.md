@@ -1,6 +1,6 @@
 # M905B Studio Monitor Module · Renaissance
 
-Ward-Beck Systems M905B, 1994|27. Wiki page: [M905B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M905B.html)
+Ward-Beck Systems M905B, 1994|27. Wiki page: [M905B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
