@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M905B",
- "repo": "MODULES.UNSORTED.M905B-Studio-Monitor-Module",
+ "repo": "MODULES.RENAISSANCE.M905B-Studio-Monitor-Module",
  "title": "Studio Monitor Module",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
